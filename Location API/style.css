@@ -18,3 +18,15 @@ body{
     background: linear-gradient(#252930 50%, #5373F0 50%);
     
 }
+button{
+    font-size: 50px;
+    padding: 25px 46px;
+    background: #fff;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    font-weight: 500;
+    color: #5372F0;
+    cursor: pointer;
+    
+}
